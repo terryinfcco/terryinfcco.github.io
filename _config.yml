@@ -23,6 +23,10 @@ email: terryinclmich@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Just a place where I'm trying to keep track of what I'm doing with technology.
   Intended for my own personal use, but if it somehow helps someone else so be it.
+
+minima:
+  skin: dark.scss
+
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://github.com/terryinfcco.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: 
@@ -30,9 +34,15 @@ github_username:  terryinfcco
 
 # Build settings
 theme: minima
+
+
 plugins:
   - jekyll-feed
 
+
+
+author: terry
+email: "terryinclmich@hotmail.com"
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
