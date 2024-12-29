@@ -6,7 +6,7 @@ categories: [documentation]
 tags: [status, pi5, beelink]
 ---
 
-# What I Did Today
+## What I Did Today
 
 - Moved the KVM switch back to the main desk and connected the pi5 and the Beelink SER8 to it.
 - The 3 outlet power strip has the monitor, the KVM, and the tower power strip plugged into it. Nothing works when this switch is off.
