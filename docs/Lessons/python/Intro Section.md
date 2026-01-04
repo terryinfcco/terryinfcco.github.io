@@ -1,0 +1,11 @@
+---
+tags:
+  - python
+  - colt_steele
+---
+- Lots of exercises
+- Mostly later in the course
+- Can start the course in multiple places
+- I'm going to skip to Section 12 Lists
+	- It'll be good review
+	- It's followed by List Comprehensions which I hate and never learn

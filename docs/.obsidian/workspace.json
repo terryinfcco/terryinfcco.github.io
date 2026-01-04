@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "2c2f0f8be10e1dac",
+    "type": "split",
+    "children": [
+      {
+        "id": "fcd37ba1c79ea244",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9f0394752a7a6ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lessons/python/angela_yu/Day_17.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day_17"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "79c8472005483287",
+    "type": "split",
+    "children": [
+      {
+        "id": "201af35e93006f1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca279db4084cdcae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "638425c8520d8cce",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2641343fda84a467",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0b24730b47d9a814",
+    "type": "split",
+    "children": [
+      {
+        "id": "b14c7c31bf3d063b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73339053db69c0c4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lessons/python/Python_Classes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Python_Classes"
+            }
+          },
+          {
+            "id": "7cc8ad6a32133c74",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Lessons/python/Python_Classes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Python_Classes"
+            }
+          },
+          {
+            "id": "424aff84acf24f2c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "87282b6e62e7b902",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "1372c48ab0736e6f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Lessons/python/Python_Classes.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Python_Classes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "a9f0394752a7a6ac",
+  "lastOpenFiles": [
+    "Lessons/python/Python_Classes.md",
+    "Lessons/python/angela_yu/Day_17.md",
+    "Lessons/python/angela_yu/Angela_Yu_Python_Day_10.md",
+    "Lessons/python/Day_2_Videos_18_to_27.md",
+    "Lessons/python/Day_1_Videos_1_to_17.md",
+    "Lessons/python/day_1.md"
+  ]
+}

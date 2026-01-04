@@ -1,0 +1,23 @@
+- Tech With Tim. 20 minute YouTube video.
+- Uses Anaconda for virtual environments
+	- `conda create --name virt python=3.9`  # let's you specify the python version for this venv
+	- `conda activate virt` # to activate the venv
+	- `conda deactivate` # to stop using conda
+	- `conda activate` # enters a virtual environment called base which is the default anaconda environment
+	- `conda info --envs`  # lists out all the different virtual environments you have
+	- `conda env remove -n virt` # deletes a virtual environment
+- VSCode is the code editor he uses
+	- Install python extension
+	- Ctrl+Shift+p - then python select interpreter which then shows all the interpreters you have
+		- affects the interpreter VSCode uses when you click run button in top right corner of screen
+	- `pip install black` to install the formatter he likes in the virtual environment that's active. So you have to install it for every virtual environment
+		- Now when you save you should be auto formatting
+		- Under settings make sure format on save is checked
+		- Ctrl+Shift+p and format also formats without saving
+	- He uses tabnine for autocomplete but said it's like $20 per month
+	- In settings "Python Language Server" he picked pylance if you don't want to pay for tabnine
+	- Extensions:
+		- Code Spell Checker by Street Side Software
+		- Django by Baptiste Darthlenay
+		- Jinja by wholroyd
+		- 

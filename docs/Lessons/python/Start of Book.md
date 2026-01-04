@@ -1,0 +1,4 @@
+- Object Oriented Program in Python by Irv Kalb
+- Uses Pygame to demonstrate so maybe I can kill two birds with one stone.
+- He uses camelCase even though the python guide says snake case
+- Thorough overview of the book
