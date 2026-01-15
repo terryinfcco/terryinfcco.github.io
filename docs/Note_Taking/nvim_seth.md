@@ -27,7 +27,7 @@
 
 - Now some options in `options.lua`
 
-  ``` lua title:"options.lua"
+  ``` lua title="options.lua"
   vim.cmd("let g:netrw_banner = 0")
   
   vim.opt.guicursor = ""
